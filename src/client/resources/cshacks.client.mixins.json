@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "io.github.commandergl.cshacks.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"BlockMixin",
+		"OptionInstanceMixin",
+		"PauseScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
